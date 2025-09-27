@@ -11,3 +11,5 @@ whisper==1.1.10         # local OpenAI Whisper (optional, heavy)
 torch                   # required by whisper; install per your OS/CUDA
 numpy
 scikit-learn==1.5.2
+google-generativeai
+
